@@ -32,9 +32,9 @@ Windows endpoints (DC + Win10)
 
 ## Diagram
 
-*(add your network diagram image here — e.g. `diagram.png` — and reference it:)*
 
-![Lab network diagram](./diagram.png)
+
+![Lab network diagram](./Diagram1.png)
 
 ## Notes / lessons
 
